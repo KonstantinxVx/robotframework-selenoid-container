@@ -1,0 +1,12 @@
+selenium
+requests
+urllib3
+robotframework
+robotframework-imaplibrary
+robotframework-seleniumlibrary
+robotframework-requests 
+robotframework-xvfb
+allure-robotframework
+IMAPClient
+PyVirtualDisplay
+xvfbwrapper
